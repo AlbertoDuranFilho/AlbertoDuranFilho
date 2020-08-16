@@ -18,6 +18,8 @@ I saw the need for a higher education to acquire more knowledge and skills in th
 I develop some sites, but nothing paid yet, I am walking in this new area and falling in love more and more.
 </p>
 
+<h3 align="center">Languages and tools...</h3>
+
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
