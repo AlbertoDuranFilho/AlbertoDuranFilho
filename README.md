@@ -1,32 +1,34 @@
 <h1 align="center">Hi, I'm Alberto Duran</h1>
 <h3 align="center">A web development student always looking to improve and achieve ambitious goals</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-AlbertoDuranFilho-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:albertoduranfilho@gmail.com)](mailto:albertoduranfilho@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-AlbertoDuran-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albertoduran/)](https://www.linkedin.com/in/albertoduran/)
+<div align="center">
+  <a href="https://github.com/albertoDuranFilho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertoDuranFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoDuranFilho&layout=compact&langs_count=16&theme=dracula" />
+</div>
+<hr>
 
-
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" />  I’m currently learning Full Stack Development- React | Node.js | React Native
-
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> About my studies **I am currently studying react, node.js, react native, typescript**
-
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Fun fact **I have always been passionate about the world of technology, but for some reason I never saw it as a way of working.**
-
-<h4 align="center">A little about my story</h4>
-<p align="center">
-I started working early and seeing how the job market works.
-I saw the need for a higher education to acquire more knowledge and skills in the area that I try to work as a professional.
-I develop some sites, but nothing paid yet, I am walking in this new area and falling in love more and more.
-</p>
-
-<h3 align="center">Languages and tools...</h3>
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Google" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-</p>
+<div align="center">
+<h3 >Tecnologias</h3>
+ <div style="display: inline_block" ><br>
+  <img align="center" alt="Alberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alberto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Alberto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+</div>
+ 
+ <hr height="1px">
+<div align="center">
+<h3 >Contatos</h3>
+<div> 
+  <a href="https://instagram.com/betoduranf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:albertoduranfilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alberto-janeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ 
+ ![Snake animation](https://github.com/albertoDuranFilho/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+</div>
 
