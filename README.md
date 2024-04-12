@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou Alberto Duran</h1>
-<h3 align="center">Um estudante de desenvolvimento web sempre procurando melhorar e atingir metas ambiciosas</h3>
+<h3 align="center">Graduando em Desenvolvimento e análise de Sistemas pelo SENAC e Desenvolvedor Full-Stack na empresa Montês Tecnologia</h3>
 
 <div align="center">
   <a href="https://github.com/albertoDuranFilho">
