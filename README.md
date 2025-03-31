@@ -26,3 +26,14 @@ Here you'll find:
 - Email: albertoduranfilho@gmail.com
 
 Feel free to explore my repositories!
+
+---
+
+### 🇧🇷 Sobre mim:
+Sou cidadão brasileiro e espanhol, apaixonado por tecnologia e inovação.  
+Atualmente sou estagiário de IA e Machine Learning na Compass.UOL e curso Análise e Desenvolvimento de Sistemas no SENAC.
+
+Tenho interesse especial em inteligência artificial, NLP, IA generativa e desenvolvimento backend.  
+Estou aberto a oportunidades remotas no Brasil, Europa e outros países.
+
+Explore meus repositórios e fique à vontade para entrar em contato!
