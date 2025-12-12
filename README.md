@@ -1,39 +1,39 @@
-# 👋 Hi, I'm Alberto Duran!
+# 👋 Hi, eu sou o Alberto Duran!
 
-I am a person passionate about technology and innovation.
-Currently, I am participating in the Generation Brasil bootcamp, and I hold a degree in Systems Analysis and Development from SENAC University Center.
+Sou uma pessoa apaixonada por tecnologia e inovação.
+Atualmente, estou participando do bootcamp da Generation Brasil e sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC.
 
-### 👨‍💻 About Me:
-- 💡 I love solving real-world problems with intelligent systems and cloud technologies.
-- 🧠 I'm especially interested in Artificial Intelligence, Generative AI, NLP, and backend development.
-- 🌍 Open to remote opportunities in Europe and worldwide.
+Hoje meu foco é atuar como Desenvolvedor Fullstack, trabalhando principalmente com TypeScript, Node.js e React, mas também tenho experiência com Python e venho estudando computação quântica, especialmente com Qiskit e PennyLane.
+
+### Skills
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+</p>
+
+### 👨‍💻 Sobre mim:
+- 💡 Gosto de resolver problemas do mundo real com sistemas inteligentes, aplicações web escaláveis e boas práticas de engenharia de software.
+- 🧠 Tenho interesse especial em desenvolvimento backend, aplicações fullstack, Inteligência Artificial, IA Generativa, NLP e em explorar aplicações práticas de computação quântica.
+- 🌍 Aberto a oportunidades remotas no Brasil, Europa e demais regiões.
 
 ### 🛠 Tech Stack:
-- **Languages:** Python, JavaScript, TypeScript, HTML, CSS  
-- **Frameworks:** FastAPI, Node.js, React, TailwindCSS  
-- **Cloud & Tools:** AWS (S3, EC2, SageMaker, Textract), Docker, Terraform, SQLAlchemy, NGINX, LangChain  
+- Linguagens: TypeScript, JavaScript, Python, HTML, CSS
+- Backend: Node.js, Express, FastAPI
+- Frontend: React, TailwindCSS
+- Cloud & DevOps: AWS (S3, EC2, SageMaker, Textract), Docker, Terraform, NGINX
+- Banco de Dados & ORM: SQL, SQLAlchemy, Postgres, MySQL
+- IA & NLP: LangChain, modelos de IA generativa, pipelines de processamento de texto
+- Computação Quântica: Qiskit, PennyLane (estudos e projetos experimentais)
 
 ### 🚀 Projects:
-Here you'll find:
-- APIs built with FastAPI and Node.js  
-- Chatbots using LangChain and Generative AI  
-- NLP pipelines and text extraction  
-- Dashboards and frontend apps with React  
-- Personal experiments with Huggingface, AWS, and IoT  
 
-### 📫 Let's connect:
+- APIs e serviços backend com Node.js e FastAPI
+- Aplicações fullstack com React + Node/TypeScript
+- Chatbots e integrações com IA Generativa e LangChain
+- Pipelines de NLP e extração de texto
+- Dashboards e interfaces frontend em React
+- Experimentos pessoais com Python, Hugging Face, AWS, IoT e computação quântica (Qiskit, PennyLane)
+
+### 📫 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/alberto-janeiro)
 - Email: albertoduranfilho@gmail.com
-
-Feel free to explore my repositories!
-
----
-
-### 🇧🇷 Sobre mim:
-Sou uma pessoa apaixonado por tecnologia e inovação.  
-Atualmente participo do Bootcamp da Generation Brasil, e sou graduado em Análise e Desenvolvimento de Sistemas no SENAC.
-
-Tenho interesse especial em inteligência artificial, NLP, IA generativa e desenvolvimento backend.  
-Estou aberto a oportunidades remotas no Brasil, Europa e outros países.
-
-Explore meus repositórios e fique à vontade para entrar em contato!
