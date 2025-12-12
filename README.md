@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alberto Duran!
 
-I'm a dual citizen 🇧🇷 Brazil | 🇪🇸 Spain, passionate about technology and innovation.  
-Currently working as an AI & Machine Learning Intern at Compass.UOL, while pursuing a degree in Software Development at SENAC University Center.
+I am a person passionate about technology and innovation.
+Currently, I am participating in the Generation Brasil bootcamp, and I hold a degree in Systems Analysis and Development from SENAC University Center.
 
 ### 👨‍💻 About Me:
 - 💡 I love solving real-world problems with intelligent systems and cloud technologies.
